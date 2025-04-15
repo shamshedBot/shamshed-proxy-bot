@@ -28,11 +28,11 @@ async def start_handler(message: Message):
         
         
         "1. /start"
-"
+
         "2. /check"
-"
+
         "3. /live"
-"
+
         "4. /dead"
     )
     await message.answer(text)
