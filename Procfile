@@ -1,0 +1,1 @@
+worker: python shamshed_bot.py
