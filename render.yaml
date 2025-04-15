@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shamshed-proxy-checker
+    name: shamshed-proxy-bot
     env: python
     buildCommand: ""
     startCommand: "python shamshed_bot.py"
