@@ -1,0 +1,1 @@
+web: python shamshed_bot.py
