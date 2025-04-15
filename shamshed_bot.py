@@ -25,13 +25,13 @@ async def start_handler(message: Message):
         "If you need contact click @Shamshed_Boss
 
 "
-        "<b>Available Commands:</b>
+        "<b>Available Commands:</b>"
 "
-        "1. /start
+        "1. /start"
 "
-        "2. /check
+        "2. /check"
 "
-        "3. /live
+        "3. /live"
 "
         "4. /dead"
     )
