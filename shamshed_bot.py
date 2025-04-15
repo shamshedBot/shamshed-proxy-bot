@@ -20,7 +20,7 @@ async def start_handler(message: Message):
         return
 
     text = (
-        "🔥 <b>Welcome to Shamshed Proxy Checker Bot</b>
+        "🔥 <b>Welcome to Shamshed Proxy Checker Bot</b>"
 "
         "If you need contact click @Shamshed_Boss
 
